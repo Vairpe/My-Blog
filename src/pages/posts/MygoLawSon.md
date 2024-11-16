@@ -1,7 +1,7 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: It's ニャンコ先生!!!!!
-description: BanG Dream! It's MyGO!!!!! × 罗森
+description: It's ニャンコ先生
 pubDate: 2024-11-15T21:27:00Z
 imgSrc: '/assets/images/MygoLawson.jpg'
 imgAlt: 'Image post 4'
